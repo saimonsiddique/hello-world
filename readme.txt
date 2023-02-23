@@ -1,1 +1,2 @@
-Hello, I'm using gi!
+Hello, I'm using git!
+This is to commit repository.
